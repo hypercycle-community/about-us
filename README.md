@@ -1,4 +1,5 @@
-<H1>HyperCycle</H1> 
+<center><H1>HyperCycle</H1></center>
+<br>
 <img src="https://i.imgur.com/ID2EVUX.jpg">
 <hr>
 <H2>What is HyperCycle?</H2>
@@ -15,7 +16,8 @@ Your machine can be remote or local. Your participation in AI computation can en
 Consumers don't interact nor call Cisco, Oracle or IBM to operate their electricity bill or online medical record.
 HyperCycle is a B2B play. However, providing our customers with tools to enable B2C and ensuring the success of our customers is our number 1 priority. 
 
-<H1>Join the HyperCycle Community:</H1>
+<center><H1>Join the HyperCycle Community:</H1></center>
+<br>
 <hr>
 <H2>Official Links:</H2>
 <hr>
