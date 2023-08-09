@@ -1,4 +1,5 @@
 <H1>HyperCycle</H1> 
+<img src="https://i.imgur.com/ID2EVUX.jpg">
 <hr>
 <H2>What is HyperCycle?</H2>
 <hr>
